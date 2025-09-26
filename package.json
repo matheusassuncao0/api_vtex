@@ -1,8 +1,0 @@
-# Adiciona os dois arquivos de configuração ao controle do Git
-git add package.json package-lock.json
-
-# Cria um "pacote" de alterações com uma mensagem descritiva
-git commit -m "Adiciona arquivos de configuração do backend"
-
-# Envia o "pacote" para o GitHub
-git push
